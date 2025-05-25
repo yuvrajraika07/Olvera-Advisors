@@ -66,19 +66,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 
 
-## Contact Us Page
-### Desktop View
-![image](https://github.com/Nitish8800/Olvera-Advisors/assets/81190422/81f0cef6-5366-434c-a3c0-5f487e65288a)
-
-
-
-
-
-
-
-
-
-
 
 
 
