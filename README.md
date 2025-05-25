@@ -66,8 +66,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ### Desktop View
 ![image](https://github.com/Nitish8800/Olvera-Advisors/assets/81190422/ec7ec4d9-ebee-4c01-bdee-ae266f726586)
 
-### Mobile View
-![image](https://github.com/Nitish8800/Olvera-Advisors/assets/81190422/22a91de7-d6ae-4a94-992b-d24973332a9e) 
 
 
 
@@ -75,8 +73,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 ### Desktop View
 ![image](https://github.com/Nitish8800/Olvera-Advisors/assets/81190422/81f0cef6-5366-434c-a3c0-5f487e65288a)
 
-### Mobile View
-![image](https://github.com/Nitish8800/Olvera-Advisors/assets/81190422/aa4950fa-f89f-411c-9a05-f7608e2e89bf)  | |  ![image](https://github.com/Nitish8800/Olvera-Advisors/assets/81190422/3b0f0c07-e098-4cf8-b7ed-9b6a6fa3447a)
+
 
 
 
