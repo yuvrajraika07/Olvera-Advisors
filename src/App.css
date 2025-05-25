@@ -1,0 +1,125 @@
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+  color: #b31e8c;
+}
+
+.hover-underline-animation:after {
+  content: "";
+  position: absolute;
+  width: 45%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 13px;
+  background-color: #b31e8c;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+.hover-underline-animation_2 {
+  display: inline-block;
+  position: relative;
+  color: #b31e8c;
+}
+
+.hover-underline-animation_2:after {
+  content: "";
+  position: absolute;
+  width: 30%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: #b31e8c;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation_2:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+.imageLinearGradient {
+  background: linear-gradient(
+      270deg,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(18, 27, 33, 0.9) 100%
+    ),
+    url("./assets/images/woker.png") 50% 50% / cover no-repeat;
+  width: 100%;
+  /* height: 850px; */
+  z-index: -1;
+  overflow: hidden;
+}
+
+.imageLinearGradient2 {
+  background: linear-gradient(
+      270deg,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(18, 27, 33, 0.9) 100%
+    ),
+    url("./assets/images/sergey.png") 50% 50% / cover no-repeat;
+  width: 100%;
+  /* height: 450px; */
+  z-index: -1;
+  overflow: hidden;
+}
+
+.imageLinearGradient3 {
+  background: linear-gradient(
+      270deg,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(18, 27, 33, 0.9) 100%
+    ),
+    url("./assets/images/diverse-business.png") 50% 50% / cover no-repeat;
+  width: 100%;
+  /* height: 450px; */
+  z-index: -1;
+  overflow: hidden;
+}
+
+.fillLinear {
+  fill: linear-gradient(250deg, #871561 10.64%, rgba(194, 39, 142, 0) 99.08%);
+  flex-shrink: 0;
+}
+
+#TypographyAbout {
+  color: #fff;
+  font-family: Plus Jakarta Sans;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 72px; /* 240% */
+  text-transform: capitalize;
+  content: "About Olvera";
+}
+.react-multiple-carousel__arrow--right::before {
+  color: black !important;
+}
+
+.react-multiple-carousel__arrow--right:hover {
+  background-color: #fff !important;
+}
+.react-multiple-carousel__arrow--left::before {
+  color: black !important;
+}
+
+.react-multiple-carousel__arrow--left:hover {
+  background-color: #fff !important;
+}
+
+.slider {
+  margin: 0 20px;
+  overflow: "hidden";
+  padding: 2rem 0;
+}
+
+.react-multi-carousel-list {
+  padding: 0rem 0 2rem 0;
+}
